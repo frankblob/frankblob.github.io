@@ -1,0 +1,1 @@
+!function(){const c=document.querySelectorAll(".c-accordion .title");function t(c){this.classList.toggle("expanded")}for(let e=0;e<c.length;e++)c[e].addEventListener("click",t.bind(c[e].closest(".c-accordion")))}();
